@@ -100,6 +100,6 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
    [themoviedb]: <https://www.themoviedb.org/?language=en-US>
    [imdb]: <https://www.imdb.com/?ref_=nv_home>
    [our cleaned data]: <INSERT CLEANED DATA>
-   [our sourced data]: <INSERT DATA SOURCES>
+   [our sourced data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/tree/branchy/Data/Sourced%20Data>
 
    [Ace Editor]: <http://ace.ajax.org>
