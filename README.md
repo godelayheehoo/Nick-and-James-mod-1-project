@@ -71,7 +71,7 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 - Expand initial grouping to a seasonal format, rather than by month.
 - Explore what production costs provide the highest percent profit.
 - Look into the impact experienced directors have on percent profit.
-- Investigate a movie's opening weekend affects gross sales.
+- Investigate how a movie's opening weekend affects gross sales.
 
 ### Repo Navigation
 
