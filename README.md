@@ -42,20 +42,23 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 
  ##### Figure 1: Overall Percent Profit by Month
  - July was found to have the highest mean profit percent (191.96%), with a 95% confidence interval of (152.38%, 231.54%). 
+ 
 ![pp_by_month.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/pp_by_month.png)
 
  ##### Figure 2: Each Genre's Average Profitability in July
  - Animation was found to have the highest mean percent profit in July at 359.99%, compared to the average across all genres of 161.43%. 
- ![genres_in_july.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/genres_in_july.png)
+ 
+![genres_in_july.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/genres_in_july.png)
 
  ##### Figure 3: Animation's Profitability in July
  - We plotted each genre's percent profit by month. Featured below is Animation's. As mentioned above, the mean was 359.99%, with a 95% CI of (211.99%, 507.99%).
+ 
 ![animation_pp_by_month.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/animation_pp_by_month.png)
 
  ##### Figure 4: Animation's Most Profitable Writers
  - We looked at experienced writers within the Animation genre, finding their average percent profit to be 354.59%. This was higher than the average percent profit of all experienced writers (288.63%), and even higher still than that of the average animation writer (219.34%).
- - LINK writers_animation.png HERE
- ![writers_animation.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/writers_animation.png)
+
+![writers_animation.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/writers_animation.png)
 
 ### Limitations
 - Can't control how large Hollywood has blown up internationally in recent times, even with trimming our data to exclude movies released prior to 2000.
@@ -75,23 +78,7 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 
 ### Repo Navigation
 
-```
-├── code_folder
-│   ├── __pycache__
-│   ├── __init__.py
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── visualizations.py
-├── data
-│   └── README.md
-├── images
-│   ├── animals.png
-│   └── pet-resource-center-og.jpg
-├── README.md
-├── TEMPLATE_README.md
-├── __init__.py
-└── animal_shelter_needs_analysis.ipynb
-```
+To be added shortly.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -103,3 +90,5 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
    [our sourced data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/tree/branchy/Data/Sourced%20Data>
 
    [Ace Editor]: <http://ace.ajax.org>
+
+
