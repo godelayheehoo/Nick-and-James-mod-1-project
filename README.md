@@ -86,7 +86,7 @@ To be added shortly.
    [box office mojo]: <https://www.boxofficemojo.com/>
    [themoviedb]: <https://www.themoviedb.org/?language=en-US>
    [imdb]: <https://www.imdb.com/?ref_=nv_home>
-   [our cleaned data]: <INSERT CLEANED DATA>
+   [our cleaned data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Data/Cleaned%20Data/data_for_initial_load.csv>
    [our sourced data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/tree/branchy/Data/Sourced%20Data>
 
    [Ace Editor]: <http://ace.ajax.org>
