@@ -80,6 +80,12 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 
 To be added shortly.
 
+### Sources of Images Used in Proposal
+Slide 1: https://www.microsofttheater.com/news/detail/la-lives-home-of-concerts-and-award-shows-renamed-microsoft-theater
+Slide 2: https://www.visitlasvegas.com/listing/buffalo-bills-movie-theater/36671/
+Slide 9: https://technologytherapy.com/value-understanding-building-customer-relationships/
+Slide 10: https://www.mycustomer.com/experience/engagement/understanding-customer-journeys-the-four-limitations-of-traditional-analytics
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
