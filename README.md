@@ -4,6 +4,8 @@
 ##### - James Shaw, shawjr3@gmail.com
 ##### - Nick Pardue, nickpardue@gmail.com
 
+### [Our Presentation]
+
 ![microsoft_theater.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/microsoft_theater.png)
 
 ### Our Business Problem
@@ -97,6 +99,7 @@ To be added shortly.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+   [our presentation]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/Proposal.pdf>
    [the numbers]: <https://www.the-numbers.com/>
    [themoviedb]: <https://www.themoviedb.org/?language=en-US>
    [imdb]: <https://www.imdb.com/?ref_=nv_home>
