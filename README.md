@@ -4,7 +4,7 @@
 ##### - James Shaw, shawjr3@gmail.com
 ##### - Nick Pardue, nickpardue@gmail.com
 
-# INSERT MS THEATERS IMAGE HERE
+![microsoft_theater.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/microsoft_theater.png)
 
 ### Our Business Problem
 Microsoft is launching a movie studio in an effort to start producing content in the film industry (a $136 billion industry as of 2018). We were tasked with doing data analysis and creating a presentation to explore what types of films are currently doing the best at the box office, and provide actionable insight for the purposes of deciding what type of film they should create. 
@@ -42,19 +42,20 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 
  ##### Figure 1: Overall Percent Profit by Month
  - July was found to have the highest mean profit percent (191.96%), with a 95% confidence interval of (152.38%, 231.54%). 
-  - LINK pp_by_month.png HERE
+![pp_by_month.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/pp_by_month.png)
 
  ##### Figure 2: Each Genre's Average Profitability in July
  - Animation was found to have the highest mean percent profit in July at 359.99%, compared to the average across all genres of 161.43%. 
- - LINK genres_in_july.png HERE
- 
+ ![genres_in_july.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/genres_in_july.png)
+
  ##### Figure 3: Animation's Profitability in July
  - We plotted each genre's percent profit by month. Featured below is Animation's. As mentioned above, the mean was 359.99%, with a 95% CI of (211.99%, 507.99%).
- - LINK animation_pp_by_month.png HERE
+![animation_pp_by_month.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/animation_pp_by_month.png)
 
  ##### Figure 4: Animation's Most Profitable Writers
  - We looked at experienced writers within the Animation genre, finding their average percent profit to be 354.59%. This was higher than the average percent profit of all experienced writers (288.63%), and even higher still than that of the average animation writer (219.34%).
  - LINK writers_animation.png HERE
+ ![writers_animation.png](https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Images/writers_animation.png)
 
 ### Limitations
 - Can't control how large Hollywood has blown up internationally in recent times, even with trimming our data to exclude movies released prior to 2000.
@@ -102,17 +103,3 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
    [our sourced data]: <INSERT DATA SOURCES>
 
    [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
