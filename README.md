@@ -81,6 +81,9 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 - Look into the impact experienced directors have on percent profit.
 - Investigate how a movie's opening weekend affects gross sales.
 
+### Reproducing Our Data
+Please visit the Appendix in our [Technical Notebook].
+
 ### Repo Navigation
 
 To be added shortly.
@@ -103,6 +106,7 @@ To be added shortly.
    [imdb title codes and genres]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.title.basics.csv.gz>
    [writer imdb codes and title codes]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.title.crew.csv.gz>
    [writer names]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.name.basics.csv.gz>
+   [technical notebook]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/Microsoft%20New%20Studio%20Recommendations%20-%20Technical%20Notebook.ipynb>
 
 
 
