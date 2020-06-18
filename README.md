@@ -87,8 +87,32 @@ We analyzed a dataset of 1,348 movies, each containing the following *relevant* 
 Please visit the Appendix in our [Technical Notebook].
 
 ### Repo Navigation
+```
+├── Images
+│   ├── .DS_Store
+│   ├── animation_pp_by_month.png
+│   ├── genres_in_july.png
+│   ├── microsoft_theater.png
+│   ├── pp_by_month.png
+│   └── writers_animation.png
+│
+├── .gitignore
+│
+├── Browser Friendly Technical Notebook.html
+│
+├── Microsoft New Studio Recommendations - Technical Notebook.ipynb
+│
+├── Proposal.pdf
+│
+├── README.md
+│
+├── data_for_initial_load.csv
+├── imdb.name.basics.csv.gz
+├── imdb.title.basics.csv.gz
+├── imdb.title.crew.csv.gz
+└── tn.movie_budgets.csv.gz
 
-To be added shortly.
+```
 
 ### Sources of Images Used in Proposal
 - Slide 1: https://www.microsofttheater.com/news/detail/la-lives-home-of-concerts-and-award-shows-renamed-microsoft-theater
