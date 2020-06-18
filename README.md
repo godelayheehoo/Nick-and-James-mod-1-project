@@ -92,20 +92,3 @@ To be added shortly.
    [Ace Editor]: <http://ace.ajax.org>
 
 
-```
-├── code_folder
-│   ├── __pycache__
-│   ├── __init__.py
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── visualizations.py
-├── data
-│   └── README.md
-├── images
-│   ├── animals.png
-│   └── pet-resource-center-og.jpg
-├── README.md
-├── TEMPLATE_README.md
-├── __init__.py
-└── animal_shelter_needs_analysis.ipynb
-```
