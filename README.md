@@ -11,15 +11,20 @@ Microsoft is launching a movie studio in an effort to start producing content in
 
 As many would love to see a company like Microsoft fail, we wanted to look at variables that would lead to a "safe" debut production. We defined "safe" as a movie that would have a high profit percent with a firm confidence interval.
 
-We chose to use movie data sourced from [Box Office Mojo], [TheMovieDB], and [IMDb]. Using this data, we sought to find out the following:
+We chose to use movie data sourced from [IMDb] and [The Numbers]. Using this data, we sought to find out the following:
 - Are there any months in which movies released tend to make the most profit?
 - Which genre(s) are most profitable?
 - Are there any writers that will increase our odds at creating a successful movie?
 
 ### Data Sets
-[Our Sourced Data]
+Our Sourced Data
+- [Budgets and Release Dates]
+- [IMDb Title Codes and Genres]
+- [Writer IMDb Codes and Title Codes]
+- [Writer Names]
 
 [Our Cleaned Data] 
+
 
 ### Cleaned Data Description
 We analyzed a dataset of 1,348 movies, each containing the following *relevant* variables:
@@ -83,18 +88,21 @@ To be added shortly.
 ### Sources of Images Used in Proposal
 - Slide 1: https://www.microsofttheater.com/news/detail/la-lives-home-of-concerts-and-award-shows-renamed-microsoft-theater
 - Slide 2: https://www.visitlasvegas.com/listing/buffalo-bills-movie-theater/36671/
-- Slide 9: https://technologytherapy.com/value-understanding-building-customer-relationships/
 - Slide 10: https://www.mycustomer.com/experience/engagement/understanding-customer-journeys-the-four-limitations-of-traditional-analytics
+- Slide 11: https://www.odysys.com/blog/research-blogging-ideas/
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [box office mojo]: <https://www.boxofficemojo.com/>
+   [the numbers]: <https://www.the-numbers.com/>
    [themoviedb]: <https://www.themoviedb.org/?language=en-US>
    [imdb]: <https://www.imdb.com/?ref_=nv_home>
-   [our cleaned data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/branchy/Data/Cleaned%20Data/data_for_initial_load.csv>
+   [our cleaned data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/data_for_initial_load.csv>
    [our sourced data]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/tree/branchy/Data/Sourced%20Data>
+   [budgets and release dates]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/tn.movie_budgets.csv.gz>
+   [imdb title codes and genres]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.title.basics.csv.gz>
+   [writer imdb codes and title codes]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.title.crew.csv.gz>
+   [writer names]: <https://github.com/godelayheehoo/Nick-and-James-mod-1-project/blob/master/imdb.name.basics.csv.gz>
 
-   [Ace Editor]: <http://ace.ajax.org>
 
 
